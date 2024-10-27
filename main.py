@@ -1,2 +1,3 @@
 #Файлик main.py - питоновский файл, в котором нужно написать команду вывода в консоль сообщения “Hello, world”
 print("Hello , world!")
+print("This is my homework")
